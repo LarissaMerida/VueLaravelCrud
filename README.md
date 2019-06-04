@@ -1,7 +1,7 @@
 # VueLaravelCrud
 
 </br>
-**Configurações do .env
+***Configurações do .env**
 
 </br> DB_CONNECTION=pgsql
 </br> DB_HOST=127.0.0.1
